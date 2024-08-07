@@ -59,17 +59,17 @@ window.onload = function() {
     // this is the url for the profile avatar
     avatarURL: "https://randomuser.me/portraits/men/42.jpg",
     // social media bar position (left or right)
-    socialMediaPosition: "position-left",
+    socialMediaPosition: "position-right",
     // social media usernames
     twitter: "",
     github: "",
     linkedin: "",
     instagram: "",
-    name: "Carlos",
-    lastName: "Mera",
-    role: "Software Developer",
-    country: "Perú",
-    city: "Chiclayo"
+    name: "Tu nombre",
+    lastName: "Tu apellido",
+    role: "Tu rol",
+    country: "País",
+    city: "Ciudad"
   };
   render(window.variables); // render the card for the first time
 
